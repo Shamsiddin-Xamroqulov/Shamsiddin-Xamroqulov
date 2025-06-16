@@ -64,7 +64,7 @@
 
 #### ✅ Confident With:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,express,nodejs,git,github,gitlab,regex,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,express,nodejs,git,github,gitlab,regex,vscode,socket,cloudinary,telegram" />
   <img src="https://skillicons.dev/icons?i=cloudflare" />
 </p>
 
