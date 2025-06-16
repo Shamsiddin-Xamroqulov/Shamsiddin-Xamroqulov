@@ -19,9 +19,9 @@
 ### 🛠️ Languages and Tools I work with:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mysql,mongodb,postgresql,regex,git,github,gitlab,linux,vscode,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mysql,mongodb,postgresql,regex,git,github,gitlab,vscode,cloudflare" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,postman,command,bash" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,postman,bash" />
 </p>
 
 ---
