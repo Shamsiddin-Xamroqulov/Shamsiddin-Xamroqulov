@@ -79,23 +79,21 @@
 
 ---
 
-### 🔗 Let's Connect
+### 🔗 Connect with me:
 
-<p align="left">
-  <a href="https://t.me/khamrakul0v">
-    <img src="https://img.shields.io/badge/Telegram-@khamrakul0v-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<p align="center">
+  <a href="https://t.me/khamrakul0v" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@khamrakul0v-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram" />
   </a>
-  <a href="https://www.linkedin.com/in/shamsiddin-xamroqulov-b67695342">
-    <img src="https://img.shields.io/badge/LinkedIn-My%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://t.me/WebVisionChannel" target="_blank">
+    <img src="https://img.shields.io/badge/WebVisionChannel-Channel-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram Channel" />
   </a>
-  <a href="https://t.me/WebVisionChannel">
-    <img src="https://img.shields.io/badge/Telegram%20Bot-WebVision%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://github.com/Shamsiddin-Xamroqulov" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Shamsiddin--Xamroqulov-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/shamsiddin-xamroqulov-b67695342" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Shamsiddin%20Xamroqulov-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
-
-
-
-
-
 ---
 > “Strive not to be a success, but rather to be of value.” – Albert Einstein
