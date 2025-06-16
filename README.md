@@ -79,19 +79,12 @@
 
 ---
 
-### 🔗 Connect with me
+### 🔗 Let's Connect
 
-<p align="left">
-  <a href="https://t.me/khamrakul0v" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" />
-  </a>
-  <a href="https://www.linkedin.com/in/shamsiddin-xamroqulov-b67695342" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://t.me/WebVisionChannel" target="_blank">
-    <img src="https://img.shields.io/badge/Bot%20Channel-WebVision-blue?style=for-the-badge&logo=telegram" />
-  </a>
-</p>
+- 📬 [Telegram (@khamrakul0v)](https://t.me/khamrakul0v)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shamsiddin-xamroqulov-b67695342)
+- 🤖 [Telegram Bot Channel (WebVision)](https://t.me/WebVisionChannel)
+
 
 
 ---
