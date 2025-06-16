@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently learning at **Najot Ta'lim**
-- 🌱 I’m learning **Node.js, Express.js, TypeScript, SQL, MongoDB, PostrgeSQL, Nest.js, React.js, Template Engine, Socket.IO**, TypeOrm, Swagger,
+- 🌱 I’m learning **Node.js, Express.js, TypeScript, SQL, Template Engine, Socket.IO**, MongoDB, PostrgeSQL, Nest.js, React.js,
 - 🚀 Projects I’ve worked on:
   - Online Flower Shop 🌸
   - Online Store 🛍️
