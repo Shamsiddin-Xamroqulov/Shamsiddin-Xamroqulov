@@ -58,6 +58,27 @@
 </p>
 
 
+
+
+### 🧠 My Tech Journey
+
+#### ✅ Confident With:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,express,nodejs,git,github,gitlab,regex,vscode" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" />
+</p>
+
+#### 🚧 Currently Learning:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+#### 🌱 Want to Learn Next:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,docker,graphql,nestjs" />
+</p>
+
+
 ---
 ### 📊 GitHub Stats:
 
