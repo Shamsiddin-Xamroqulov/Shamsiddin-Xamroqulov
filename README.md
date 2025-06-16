@@ -5,17 +5,23 @@
   <img src="https://komarev.com/ghpvc/?username=shamsiddinxamrokulov&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-- 🔭 I’m currently working on **Online Flower Shop**  
-- 🌱 I’m currently learning **Node.js, Express.js, SQL, Socket.IO**  
-- 💬 Ask me about **Backend development, APIs, Databases**  
-- 📫 How to reach me: [xamroqulovsh7@gmail.com](mailto:xamroqulovsh7@gmail.com)  
-- ⚡ Fun fact: *I’m a night coder who wakes up at 4 AM* 🚀  
+- 🔭 I’m currently learning at **Najot Ta'lim**
+- 🌱 I’m learning **Node.js, Express.js, TypeScript, SQL, MongoDB, PostrgeSQL, Nest.js, React.js, Template Engine, Socket.IO**, TypeOrm, Swagger,
+- 🚀 Projects I’ve worked on:
+  - Online Flower Shop 🌸
+  - Online Store 🛍️
+  - Mini CRM for Training Centers 🏫
+- 💬 Ask me about **Backend Development, APIs, Telegram Bots, Databases**
+- 🧠 I’m also learning **DSA (Binary & Linear Search), CMD, Regex, Hosting, Git, GitLab**
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools I work with:
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mysql,html,css,git,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mysql,mongodb,regex,git,github,gitlab,linux,vscode,cloudflare" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,postman,cmd,bash" />
 </p>
 
 ---
@@ -35,9 +41,8 @@
 ---
 
 ### 🌐 Socials
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/username)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourname)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/yourchannel)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]([https://t.me/khamrakul0v])
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/shamsiddin-xamroqulov-b67695342])
 
 ---
 
