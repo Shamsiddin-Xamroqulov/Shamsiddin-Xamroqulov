@@ -15,6 +15,24 @@
 - 🧠 I’m also learning **DSA (Binary & Linear Search), CMD, Regex, Hosting, Git, GitLab**
 
 ---
+### 🧠 My Tech Journey
+
+#### ✅ Confident With:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,express,nodejs,git,github,gitlab,regex,vscode,cloudflare,bash" />
+</p>
+
+#### 🚧 Currently Learning:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+#### 🌱 Want to Learn Next:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,docker,graphql,nestjs" />
+</p>
+
+---
 
 ### 🛠️ Languages and Tools I work with and Learning:
 
@@ -32,53 +50,6 @@
 - 🔧 **Other Tools**: Regex, Git, GitHub, GitLab, CMD, Postman, VS Code, Cloud Services (Multer, Cloudinary), Hosting (VPS/VDS), Telegram Bots, Socket.IO  
 
 ---
-
-### 🧠 My Tech Journey
-
-#### ✅ Confident With:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,express,git,github,gitlab,regex" />
-  <img src="https://img.shields.io/badge/Socket.IO-Real--Time-black?style=flat-square&logo=socket.io" />
-  <img src="https://img.shields.io/badge/Cloudinary-Multer-blue?style=flat-square&logo=cloudinary" />
-  <img src="https://img.shields.io/badge/Telegram%20Bots-Built%20&%20Hosted-blue?style=flat-square&logo=telegram" />
-  <img src="https://img.shields.io/badge/Template%20Engines-EJS%2C%20Handlebars-yellow?style=flat-square" />
-</p>
-
-#### 🚧 Currently Learning:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.shields.io/badge/DrawSQL-Diagramming-blue?style=flat-square&logo=draw.io" />
-</p>
-
-#### 🌱 Want to Learn Next:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,graphql,docker" />
-  <img src="https://img.shields.io/badge/NestJS-Coming%20Soon-red?style=flat-square&logo=nestjs" />
-  <img src="https://img.shields.io/badge/Swagger-API%20Docs-green?style=flat-square&logo=swagger" />
-</p>
-
-
-
-
-### 🧠 My Tech Journey
-
-#### ✅ Confident With:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,express,nodejs,git,github,gitlab,regex,vscode,socket,cloudinary,telegram" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" />
-</p>
-
-#### 🚧 Currently Learning:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-#### 🌱 Want to Learn Next:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,docker,graphql,nestjs" />
-</p>
-
-
 ---
 ### 📊 GitHub Stats:
 
