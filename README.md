@@ -79,19 +79,20 @@
 
 ---
 
-### 🔗 Find Me On
+### 🔗 Let's Connect
 
 <p align="left">
   <a href="https://t.me/khamrakul0v">
-    <img src="https://img.shields.io/badge/Telegram-@khamrakul0v-2CA5E0?style=for-the-badge&logo=telegram" />
+    <img src="https://img.shields.io/badge/Telegram-@khamrakul0v-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/shamsiddin-xamroqulov-b67695342">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-My%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://t.me/WebVisionChannel">
-    <img src="https://img.shields.io/badge/WebVision-My%20Bot%20Channel-yellow?style=for-the-badge&logo=telegram" />
+    <img src="https://img.shields.io/badge/Telegram%20Bot-WebVision%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
+
 
 
 
