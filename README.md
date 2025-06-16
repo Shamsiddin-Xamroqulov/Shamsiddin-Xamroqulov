@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently learning at **Najot Ta'lim**
-- 🌱 I’m learning **Node.js, Express.js, TypeScript, SQL, Template Engine, Socket.IO**, MongoDB, PostrgeSQL, Nest.js, React.js,
+- 🌱 I’m learning **Node.js, Express.js, TypeScript, SQL, Template Engine, Socket.IO, MongoDB, PostrgeSQL, Nest.js, React.js,**
 - 🚀 Projects I’ve worked on:
   - Online Flower Shop 🌸
   - Online Store 🛍️
@@ -79,20 +79,17 @@
 
 ---
 
-### 🔗 Connect with me:
+### 🔗 Connect with me
 
-<p align="center">
+<p align="left">
   <a href="https://t.me/khamrakul0v" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@khamrakul0v-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram" />
-  </a>
-  <a href="https://t.me/WebVisionChannel" target="_blank">
-    <img src="https://img.shields.io/badge/WebVisionChannel-Channel-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram Channel" />
-  </a>
-  <a href="https://github.com/Shamsiddin-Xamroqulov" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Shamsiddin--Xamroqulov-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=telegram" />
   </a>
   <a href="https://www.linkedin.com/in/shamsiddin-xamroqulov-b67695342" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Shamsiddin%20Xamroqulov-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://t.me/WebVisionChannel" target="_blank">
+    <img src="https://img.shields.io/badge/Bot%20Channel-WebVision-blue?style=for-the-badge&logo=telegram" />
   </a>
 </p>
 
