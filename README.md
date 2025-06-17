@@ -67,6 +67,11 @@
 
 ---
 
+### 🧩 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -80,11 +85,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shamsiddin-Xamroqulov&theme=darkhub&no-frame=true" />
 </p>
-
----
-
-### 🧩 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
