@@ -102,5 +102,6 @@
 
 
 ---
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 > “Strive not to be a success, but rather to be of value.” – Albert Einstein
