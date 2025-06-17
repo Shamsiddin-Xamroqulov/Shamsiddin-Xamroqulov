@@ -83,6 +83,11 @@
 
 ---
 
+### 🧩 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 ### 🔗 Connect with me:
 
 <p align="center">
@@ -102,6 +107,5 @@
 
 
 ---
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 > “Strive not to be a success, but rather to be of value.” – Albert Einstein
