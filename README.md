@@ -45,7 +45,7 @@
 - 🌐 **Languages**: JavaScript, TypeScript  
 - 🧠 **Algorithms**: DSA (Binary Search, Linear Search)  
 - ⚙️ **Backend**: Node.js, Express.js, REST APIs  
-- 🗄️ **Databases**: MySQL, MongoDB, PostgreSQL, SQL  
+- 🗄️ **Databases**: MySQL, MongoDB, PostgreSQL, SQL
 - 📝 **Markup Languages**: HTML, CSS  
 - 🔧 **Other Tools**: Regex, Git, GitHub, GitLab, CMD, Postman, VS Code, Cloud Services (Multer, Cloudinary), Hosting (VPS/VDS), Telegram Bots, Socket.IO  
 
@@ -68,7 +68,9 @@
 ---
 
 ### 🧩 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</p>
 
 ---
 
