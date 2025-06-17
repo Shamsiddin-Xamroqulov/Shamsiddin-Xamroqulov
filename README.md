@@ -2,8 +2,13 @@
 <h3 align="center">A motivated semi Full-Stack Developer from Uzbekistan 🇺🇿</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shamsiddinxamrokulov&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Shamsiddin-Xamroqulov&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0000FF&center=true&vCenter=true&width=500&lines=Hi%2C+I+am+Shamsiddin+Xamroqulov;Backend+%7C+Full+Stack+Developer;Learning+Node.js%2C+Express.js%2C+MySQL%2C+MongoDB;Building+Real+World+Projects;Passionate+about+Web+Development" alt="Typing SVG" />
+</p>
+
 
 - 🔭 I’m currently learning at **Najot Ta'lim**
 - 🌱 I’m learning **Node.js, Express.js, TypeScript, SQL, Template Engine, Socket.IO, MongoDB, PostrgeSQL, Nest.js, React.js,**
