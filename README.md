@@ -69,6 +69,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Shamsiddin-Xamroqulov&theme=darkhub&no-frame=true&column=7" alt="Trophies" />
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamsiddin-Xamroqulov&layout=compact&theme=radical" />
+
 ---
 
 ### 🏆 Contributions
