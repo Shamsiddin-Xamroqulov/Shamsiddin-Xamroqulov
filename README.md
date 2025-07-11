@@ -24,7 +24,7 @@
 
 #### ✅ Confident With:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,express,nodejs,git,github,gitlab,regex,vscode,cloudflare,bash" />
+  <img src="https://skillicons.dev/icons?i=js,ts,express,nodejs,git,github,gitlab,regex,vscode,bash" />
 </p>
 
 #### 🚧 Currently Learning:
@@ -100,9 +100,6 @@
 <p align="center">
   <a href="https://t.me/khamrakul0v" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-@khamrakul0v-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram" />
-  </a>
-  <a href="https://t.me/WebVisionChannel" target="_blank">
-    <img src="https://img.shields.io/badge/WebVisionChannel-Channel-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram Channel" />
   </a>
   <a href="https://github.com/Shamsiddin-Xamroqulov" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Shamsiddin--Xamroqulov-181717?style=for-the-badge&logo=github" alt="GitHub" />
